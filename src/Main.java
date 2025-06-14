@@ -5,8 +5,10 @@ public class Main {
         Player p1 = new Player();
         p1.run();
         p1.kick();
-        p1.name="Ahmed";
-        p1.hasBall=true;
-        p1.num=7;
+        p1.name = "Ahmed";
+        p1.hasBall = true;
+        p1.num = 7;
+
+        Circle circle = new Circle();
     }
 }
